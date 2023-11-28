@@ -6,10 +6,16 @@ body {
 }
 
 .form {
-    width: 400px;
+    width: 100%;
     margin: auto;
 }
 
+@media screen and (min-width: 400px) {
+    .form {
+        min-width: 400px; 
+        max-width: 700px; 
+    }
+}
 .form input[type="text"] {
     padding: 10px;
     width: 200px;

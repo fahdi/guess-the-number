@@ -21,5 +21,7 @@ function checkGuess() {
         resultText = 'Your guess is too high!';
     }
 
+    document.getElementById('guessField').focus();
+
     document.getElementById('result').textContent = resultText;
 }
