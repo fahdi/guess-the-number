@@ -29,8 +29,11 @@ To set up the game on your local machine:
 - CSS
 - JavaScript
 
+## Screenshots
+![Screenshot](screenshot.png)
+
 ## Contributing
 This project is open for contributions. Feel free to fork the repository and submit pull requests.
 
 ## License
-[MIT License](LICENSE.md) 
+[MIT License](LICENSE.md) &copy; Fahad Murtaza
