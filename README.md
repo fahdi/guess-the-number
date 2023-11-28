@@ -1,8 +1,7 @@
 # Guess the Number Game
 
 ## Demo
-
-
+https://fahdi.github.io/guess-the-number/
 
 ## Overview
 "Guess the Number" is a simple, interactive web-based game. The game randomly selects a number between 1 and 100, and players attempt to guess the number in ten or fewer tries. After each guess, the game provides feedback on whether the guess is too high or too low.
